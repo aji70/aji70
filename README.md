@@ -1,6 +1,6 @@
 👋 Hi there
 - My name is Ajidokwu Sabo, I am a junior Blockchain developer.
-- 👀 I’m interested in tech, obviously😂
+- 👀 I’m interested in tech, obviously😂, a Blockchain Enthusiast
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on different projects to build my skills and provide solutions.
 - 📫 How to reach me:
