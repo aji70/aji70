@@ -1,5 +1,5 @@
 👋 Hi there
-- My name is Ajidokwu Sabo, I am a junior Blockchain developer.
+- My name is Ajidokwu Sabo, I am a junior frontend vanila javascript and Blockchain developer.
 - 👀 I’m interested in tech, obviously😂, a Blockchain Enthusiast.
 - member of web3bridge cohort X, Currently in training tho 🤗
 - 🌱 I’m currently learning Solidity.
