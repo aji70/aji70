@@ -2,7 +2,7 @@
 - My name is Ajidokwu Sabo, I am a junior 😉 React and Blockchain😎 developer.
 - 👀 I’m interested in tech, obviously😂, Blockchain development to be precise.
 - 😎 member of web3bridge cohort X, Currently in training tho 🤗
-- 🌱 I’m Solidity Smart Contract Developer.
+- 🌱 I’m Solidity Smart Contract Developer, writing smart contracts using Hardhat and Foundary.
 - 💞️ I’m looking to collaborate on different projects to build my skills and provide solutions.
 - 📫 How to reach me:
 - Email: ajidokwu@gmail.com
