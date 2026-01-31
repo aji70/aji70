@@ -2,7 +2,7 @@
 - My name is Ajidokwu Sabo, I am a junior 😉 React and Blockchain😎 developer.
 - 👀 I’m interested in tech, obviously😂, Blockchain development to be precise.
 - 😎 web3bridge Alumni cohort X 🤗
-- 🌱 I’m a Solidity & Cairo Smart Contract Developer.
+- 🌱 I’m a Rust, Solidity & Cairo Smart Contract Developer.
 - 💞️ I’m looking to collaborate on different projects to build my skills and provide solutions.
 - 📫 How to reach me:
 - Email: ajidokwu@gmail.com
@@ -11,7 +11,7 @@
 - LinkedIn: www.linkedin.com/in/ajidokwu-sabo-a81172247
 - While you are here, you should definitely check out some of my stuff👍
 
-Tech Stack: JavaScript(React.js, Next.js), Typescript, Solidity, Cairo, Dojo, Clarity.
+Tech Stack: JavaScript(React.js, Next.js), Typescript, Solidity, Cairo, Rust, Dojo, Clarity.
 <!---
 Aji70/aji70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
