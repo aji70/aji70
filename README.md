@@ -4,6 +4,7 @@
 - 😎 web3bridge Alumni cohort X 🤗
 - 🌱 I’m a Rust, Solidity & Cairo Smart Contract Developer.
 - 💞️ I’m looking to collaborate on different projects to build my skills and provide solutions.
+- 🚀 Founder & Lead Engineer of [Tycoon](https://tycoonworld.xyz) — an on-chain Monopoly-style game live on Celo, playable inside MiniPay.
 - 📫 How to reach me:
 - Email: ajidokwu@gmail.com
 - Twitter: x.com/ajisabo2
